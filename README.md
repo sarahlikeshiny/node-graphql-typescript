@@ -1,1 +1,1 @@
-### Boilerplate Node Graphql server built with Express and typescript
+### Boilerplate Node Graphql server built with Express and Typescript
